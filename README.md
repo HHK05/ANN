@@ -17,10 +17,11 @@ This ANN model analyzes bank customer data to predict whether a customer is like
 
 ## 🛠️ Tech Stack
 
-- **Python**: Core programming language
-- **Neural Networks**: Primary machine learning approach
-- **Apache Spark**: For big data processing (if applicable)
-- **Machine Learning**: Scikit-learn for data preprocessing and model evaluation
+- **Python**: Core programming language.
+- **Neural Networks**: Primary machine learning approach.
+- **TensorFlow**: Primary framework for building and training neural networks.
+- **Apache Spark**: For big data processing (if applicable).
+- **Machine Learning**: Scikit-learn for data preprocessing and model evaluation.
 
 ## 🔍 Key Features
 
